@@ -1,0 +1,21 @@
+/* jumbotron */
+.jumbotron {
+    background-image: url(kantor4.jpg);
+    background-size: cover;
+    height: 540px;
+    color: orange;
+}
+
+.jumbotron .display-4, .jumbotron .lead {
+    font-weight: 500;
+    text-shadow: 2px 2px 2px rgb(0, 0, 0, 0.7);
+}
+.jumbotron .display-4 {
+    margin-top: 150px;
+    font-weight: 1000;
+    text-shadow: 2x 2px 2px rgb(0, 0, 0, 10);
+}
+.jumbotron .lead {
+    font-weight: 400;
+    text-shadow: 2px 2px 2px rgb(0, 0, 0, 10);
+}
